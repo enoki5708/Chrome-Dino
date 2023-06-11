@@ -12,7 +12,7 @@ I decided as a final project to come back to that first idea and to make the gam
 
 ## Design Aspects
 The game is simple, but has complicated code, as it has many stages of difficulty.
-It contains increasing difficulty accompaniment by various sprites, background aspects, and other environmental modifiers, all while still being possible to play. Enjoy!
+It contains increasing difficulty accompanied by various sprites, background aspects, and other environmental modifiers, all while still being possible to play. Enjoy!
 
 ## How to play
 
