@@ -2,7 +2,7 @@
 A Remake of the Offline Chrome Dino game in Python using Pygame
 ## README
 
-[Harvard CS50x](https://cs50.harvard.edu/x/2020/)
+[Harvard CS50x](https://cs50.harvard.edu/x/2023/)
 ## Introduction
 My name is Tyler Gladden, I've just graduated from high school, (class of 2023) and I've now completed the course! [Harvard CS50x](https://cs50.harvard.edu/x/2020/)
 
