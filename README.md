@@ -11,7 +11,7 @@ The first project I attempted to do, in scratch, was to recreate the chrome dino
 I decided as a final project to come back to that first idea and to make the game, this time rather than an adaptation, but a remake, using Python and Pygame, a popular Python addon that handles all the event and actual display aspects of a pop-out window.
 
 ## Design Aspects
-The game is simple, but also complicated, as it has many stages of difficulty.
+The game is simple, but has complicated code, as it has many stages of difficulty.
 It contains increasing difficulty accompaniment by various sprites, background aspects, and other environmental modifiers, all while still being possible to play. Enjoy!
 
 ## How to play
