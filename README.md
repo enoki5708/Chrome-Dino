@@ -1,10 +1,8 @@
 # Chrome-Dino
 A Remake of the Offline Chrome Dino game in Python using Pygame
 ## README
-
-[Harvard CS50x](https://cs50.harvard.edu/x/2023/)
 ## Introduction
-My name is Tyler Gladden, I've just graduated from high school, (class of 2023) and I've now completed the course! [Harvard CS50x](https://cs50.harvard.edu/x/2020/)
+My name is Tyler Gladden, I've just graduated from high school, (class of 2023) and I've now completed the course! [Harvard CS50x](https://cs50.harvard.edu/x/2023/)
 
 I have 4+ years of experience working with the Starcraft 2 Galaxy Editor (It's a module based game editor), which also caused me to decide to be a computer science major.
 This course was a challenge for me, since I had no actual knowledge of any programming languages, but I knew how to code.
