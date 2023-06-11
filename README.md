@@ -28,5 +28,5 @@ Requires:
 - Python3
 
 Controls:
-Space/Up Arrow Key: Jump/Start Game
-Down Arrow Key: Crouch
+- Space/Up Arrow Key: Jump/Start Game
+- Down Arrow Key: Crouch
